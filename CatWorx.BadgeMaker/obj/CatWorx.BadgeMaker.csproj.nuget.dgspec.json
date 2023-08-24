@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/JamesACone/bootcamp/CatWorx.BadgeMaker/CatWorx.BadgeMaker.csproj": {}
+    "/Users/JamesACone/bootcamp/employee-data/CatWorx.BadgeMaker/CatWorx.BadgeMaker.csproj": {}
   },
   "projects": {
-    "/Users/JamesACone/bootcamp/CatWorx.BadgeMaker/CatWorx.BadgeMaker.csproj": {
+    "/Users/JamesACone/bootcamp/employee-data/CatWorx.BadgeMaker/CatWorx.BadgeMaker.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/JamesACone/bootcamp/CatWorx.BadgeMaker/CatWorx.BadgeMaker.csproj",
+        "projectUniqueName": "/Users/JamesACone/bootcamp/employee-data/CatWorx.BadgeMaker/CatWorx.BadgeMaker.csproj",
         "projectName": "CatWorx.BadgeMaker",
-        "projectPath": "/Users/JamesACone/bootcamp/CatWorx.BadgeMaker/CatWorx.BadgeMaker.csproj",
+        "projectPath": "/Users/JamesACone/bootcamp/employee-data/CatWorx.BadgeMaker/CatWorx.BadgeMaker.csproj",
         "packagesPath": "/Users/JamesACone/.nuget/packages/",
-        "outputPath": "/Users/JamesACone/bootcamp/CatWorx.BadgeMaker/obj/",
+        "outputPath": "/Users/JamesACone/bootcamp/employee-data/CatWorx.BadgeMaker/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/JamesACone/.nuget/NuGet/NuGet.Config"

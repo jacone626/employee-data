@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0kJqkfUiJSatEoGp2yLQ2GnlMMDJzrckmLWYUnKQ1oCIBDPnLXmzwMf+sIWNIMm+znvm4IRXEQMXBa/fbcOmFw==",
+  "dgSpecHash": "Y4pkSkkRcqPbGOX1dh0/2d6LeSA3nKOh3gHLf/9Cm7JjaDDfAfefTQMpBJrm654XGs9xMIR4E0KxdgOE01AqxA==",
   "success": true,
-  "projectFilePath": "/Users/JamesACone/bootcamp/CatWorx.BadgeMaker/CatWorx.BadgeMaker.csproj",
+  "projectFilePath": "/Users/JamesACone/bootcamp/employee-data/CatWorx.BadgeMaker/CatWorx.BadgeMaker.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
