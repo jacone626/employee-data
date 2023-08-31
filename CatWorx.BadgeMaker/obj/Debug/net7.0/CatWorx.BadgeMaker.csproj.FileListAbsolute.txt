@@ -47,3 +47,4 @@
 /Users/JamesACone/bootcamp/employee-data/CatWorx.BadgeMaker/bin/Debug/net7.0/runtimes/win-x86/native/libSkiaSharp.dll
 /Users/JamesACone/bootcamp/employee-data/CatWorx.BadgeMaker/obj/Debug/net7.0/CatWorx.BadgeMaker.csproj.AssemblyReference.cache
 /Users/JamesACone/bootcamp/employee-data/CatWorx.BadgeMaker/obj/Debug/net7.0/CatWorx.BadgeMaker.csproj.CopyComplete
+/Users/JamesACone/bootcamp/employee-data/CatWorx.BadgeMaker/bin/Debug/net7.0/Newtonsoft.Json.dll
